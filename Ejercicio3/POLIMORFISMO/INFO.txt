@@ -1,0 +1,1 @@
+Este código corresponde a un ejemplo de tipos de polimorfismo a través de una calculadora, conversión de una lista perteneciente a una clase figura, una unidad de metro, etc. día de exposiciones 3 sobre: Tipos de polimorfismo.

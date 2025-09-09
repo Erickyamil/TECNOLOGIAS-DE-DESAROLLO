@@ -1,0 +1,1 @@
+Este código corresponde a un ejemplo de polimorfismo a través del uso de una clase animal que ejemplifica un perro y un gato, así como sus comportamientos, día de exposiciones 3 sobre: tipos de polimorfismo.
